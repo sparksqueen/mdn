@@ -6,5 +6,5 @@ Este proyecto fue realizado para el curso de **DePC** por **Ángeles Peña** a.k
 
 - Barra de navegación.
 - Formulario de contacto en la sección **Contact**.
-
+- Estilos responsive (%, em/rem, vh)
 ---
